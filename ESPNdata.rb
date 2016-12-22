@@ -1,9 +1,9 @@
 ########################################################################################################
-# 																									   #
-# 						Created By: Adam Wexler														   #
-# 						Ruby Program to Extract Data on Soccer										   #
-# 						Data Source: http://www.espnfc.us/api/scorebar								   #
-# 																									   #
+# 												       #
+# 				   Created By: Adam Wexler					       #
+# 				   Ruby Program to Extract Data on Soccer	     	       	       #
+# 				   Data Source: http://www.espnfc.us/api/scorebar		       #
+# 												       #
 ########################################################################################################
 
 require 'HTTParty'
