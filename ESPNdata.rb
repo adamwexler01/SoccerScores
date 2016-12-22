@@ -1,10 +1,10 @@
-#############################################################################
-# 																			#
-# 				Created By: Adam Wexler										#
-# 				Ruby Program to Extract Data on Soccer						#
-# 				Data Source: http://www.espnfc.us/api/scorebar				#
-# 																			#
-#############################################################################
+########################################################################################################
+# 																									   #
+# 						Created By: Adam Wexler														   #
+# 						Ruby Program to Extract Data on Soccer										   #
+# 						Data Source: http://www.espnfc.us/api/scorebar								   #
+# 																									   #
+########################################################################################################
 
 require 'HTTParty'
 require 'Nokogiri'
@@ -103,25 +103,5 @@ CSV.open("#{Date.today}.csv", 'w') do |csv|
 end
 
 file.close
-
-# 	Attempting to pull data for College Basketball
-
-# b_leagues = []
-# ncb_file = File.new("#{Date.today}--ncb.txt", 'w')
-
-# ncbscores = HTTParty.get("http://fcast.us-east-1.espncdn.com/FastcastService/pubsub/profiles/12000/topic/event-topevents/message/2227858/checkpoint");
-
-# ncbscores["sports"].each do |league|
-# 	if league["name"] == "basketball"
-# 		b_leagues.push(league["leagues"])
-# 	end
-# end
-
-# b_leagues.each do |match|
-# 	ncb_file.puts(match)
-# end
-
-# ncb_file.close
-
 
 
