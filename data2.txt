@@ -1,0 +1,25 @@
+Team A: Peterborough United	 Team B: Notts County	 Score:  - 	 Date: 2016-12-20
+Team A: Villarreal	 Team B: Toledo	 Score:  - 	 Date: 2016-12-20
+Team A: Real Sociedad	 Team B: Real Valladolid	 Score:  - 	 Date: 2016-12-20
+Team A: Atletico Madrid	 Team B: Guijuelo	 Score:  - 	 Date: 2016-12-20
+Team A: Málaga	 Team B: Cordoba	 Score:  - 	 Date: 2016-12-20
+Team A: Las Palmas	 Team B: Huesca	 Score:  - 	 Date: 2016-12-20
+Team A: Borussia Dortmund	 Team B: FC Augsburg	 Score:  - 	 Date: 2016-12-20
+Team A: Borussia Monchengladbach	 Team B: VfL Wolfsburg	 Score:  - 	 Date: 2016-12-20
+Team A: Eintracht Frankfurt	 Team B: Mainz	 Score:  - 	 Date: 2016-12-20
+Team A: Hamburg SV	 Team B: Schalke 04	 Score:  - 	 Date: 2016-12-20
+Team A: Atalanta	 Team B: Empoli	 Score:  - 	 Date: 2016-12-20
+Team A: Celtic	 Team B: Partick Thistle	 Score:  - 	 Date: 2016-12-20
+Team A: KV Mechelen	 Team B: Royal Charleroi SC	 Score:  - 	 Date: 2016-12-20
+Team A: Mouscron-Peruwelz	 Team B: KVC Westerlo	 Score:  - 	 Date: 2016-12-20
+Team A: Waasland-Beveren	 Team B: St. Truiden	 Score:  - 	 Date: 2016-12-20
+Team A: Boreham Wood	 Team B: Braintree Town	 Score:  - 	 Date: 2016-12-20
+Team A: Solihull Moors	 Team B: Lincoln City	 Score:  - 	 Date: 2016-12-20
+Team A: Stenhousemuir	 Team B: East Fife	 Score:  - 	 Date: 2016-12-20
+Team A: Airbus UK	 Team B: Bala Town	 Score:  - 	 Date: 2016-12-20
+Team A: Aberystwyth	 Team B: Bangor City	 Score:  - 	 Date: 2016-12-20
+Team A: Deportivo Riestra	 Team B: Deportivo Morón	 Score:  - 	 Date: 2016-12-20
+Team A: Dock Sud	 Team B: Merlo	 Score:  - 	 Date: 2016-12-20
+Team A: Highlands Park FC	 Team B: Platinum Stars	 Score:  - 	 Date: 2016-12-20
+Team A: Maritzburg Utd	 Team B: Bidvest Wits	 Score:  - 	 Date: 2016-12-20
+Team A: Orlando Pirates	 Team B: Bloem Celtic	 Score:  - 	 Date: 2016-12-20

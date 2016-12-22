@@ -1,0 +1,23 @@
+Team A: Everton	 Team B: Liverpool	 Score: 0 - 1	 Date: 2016-12-19
+Team A: Athletic Bilbao	 Team B: Celta Vigo	 Score: 2 - 1	 Date: 2016-12-19
+Team A: Maritimo	 Team B: Feirense	 Score: 2 - 0	 Date: 2016-12-19
+Team A: FC Porto	 Team B: GD Chaves	 Score: 2 - 1	 Date: 2016-12-19
+Team A: Bursaspor	 Team B: Antalyaspor	 Score: 2 - 1	 Date: 2016-12-19
+Team A: Fenerbahce	 Team B: Genclerbirligi	 Score: 3 - 0	 Date: 2016-12-19
+Team A: Quilmes	 Team B: Temperley	 Score: 1 - 0	 Date: 2016-12-19
+Team A: Tigre	 Team B: Atlético Tucumán	 Score: 0 - 0	 Date: 2016-12-19
+Team A: AEK Athens	 Team B: Pas Giannina	 Score: 1 - 1	 Date: 2016-12-19
+Team A: Hellas Verona	 Team B: Virtus Entella	 Score: 1 - 0	 Date: 2016-12-19
+Team A: Nurnberg	 Team B: Kaiserslautern	 Score: 2 - 1	 Date: 2016-12-19
+Team A: Stade de Reims	 Team B: Troyes	 Score: 2 - 0	 Date: 2016-12-19
+Team A: Jong FC Utrecht	 Team B: SC Stormvogels Telstar	 Score: 2 - 1	 Date: 2016-12-19
+Team A: Jong PSV	 Team B: MVV Maastricht	 Score: 0 - 0	 Date: 2016-12-19
+Team A: Hapoel Tel Aviv	 Team B: Maccabi Haifa	 Score: 0 - 2	 Date: 2016-12-19
+Team A: Gaz Metan	 Team B: FK Astra Giurgiu	 Score: 0 - 1	 Date: 2016-12-19
+Team A: Viitorul Constanta	 Team B: FC Botosani	 Score: 3 - 1	 Date: 2016-12-19
+Team A: Almagro	 Team B: Guillermo Brown	 Score: 1 - 0	 Date: 2016-12-19
+Team A: Los Andes	 Team B: San Martin de Tucuman	 Score: 1 - 0	 Date: 2016-12-19
+Team A: Ferro Carril Oeste	 Team B: All Boys	 Score: 3 - 1	 Date: 2016-12-19
+Team A: Almirante Brown	 Team B: Deportivo Español	 Score: 2 - 1	 Date: 2016-12-19
+Team A: Defensores de Belgrano	 Team B: Excursionistas	 Score: 2 - 0	 Date: 2016-12-19
+Team A: Argentino Merlo	 Team B: El Porvenir	 Score: 1 - 1	 Date: 2016-12-19

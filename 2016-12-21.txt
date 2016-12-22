@@ -1,0 +1,39 @@
+Home Team: Newport County	 Away Team: Plymouth Argyle	 Score: 0 - 0	 Date: 2016-12-21
+Home Team: Eibar	 Away Team: Sporting Gijón	 Score: 3 - 1	 Date: 2016-12-21
+Home Team: Sevilla FC	 Away Team: SD Formentera	 Score: 9 - 1	 Date: 2016-12-21
+Home Team: Valencia	 Away Team: Leganes	 Score: 1 - 1	 Date: 2016-12-21
+Home Team: Osasuna	 Away Team: Granada	 Score: 2 - 0	 Date: 2016-12-21
+Home Team: Deportivo La Coruña	 Away Team: Real Betis	 Score: 3 - 1	 Date: 2016-12-21
+Home Team: Barcelona	 Away Team: Hercules	 Score: 1 - 0	 Date: 2016-12-21
+Home Team: Bayern Munich	 Away Team: RB Leipzig	 Score: 3 - 0	 Date: 2016-12-21
+Home Team: FC Cologne	 Away Team: Bayer Leverkusen	 Score: 1 - 1	 Date: 2016-12-21
+Home Team: FC Ingolstadt 04	 Away Team: SC Freiburg	 Score: 1 - 2	 Date: 2016-12-21
+Home Team: Hertha Berlin	 Away Team: SV Darmstadt 98	 Score: 2 - 0	 Date: 2016-12-21
+Home Team: TSG Hoffenheim	 Away Team: Werder Bremen	 Score: 1 - 1	 Date: 2016-12-21
+Home Team: Internazionale	 Away Team: Lazio	 Score: 3 - 0	 Date: 2016-12-21
+Home Team: AS Monaco	 Away Team: Caen	 Score: 2 - 1	 Date: 2016-12-21
+Home Team: Bastia	 Away Team: Marseille	 Score: 1 - 2	 Date: 2016-12-21
+Home Team: Bordeaux	 Away Team: Nice	 Score: 0 - 0	 Date: 2016-12-21
+Home Team: Dijon FCO	 Away Team: Toulouse	 Score: 2 - 0	 Date: 2016-12-21
+Home Team: Lille	 Away Team: Stade Rennes	 Score: 1 - 1	 Date: 2016-12-21
+Home Team: Lyon	 Away Team: Angers	 Score: 2 - 0	 Date: 2016-12-21
+Home Team: Metz	 Away Team: Guingamp	 Score: 2 - 2	 Date: 2016-12-21
+Home Team: Nantes	 Away Team: Montpellier	 Score: 1 - 0	 Date: 2016-12-21
+Home Team: Paris Saint-Germain 	 Away Team: Lorient	 Score: 5 - 0	 Date: 2016-12-21
+Home Team: St Etienne	 Away Team: AS Nancy Lorraine	 Score: 0 - 0	 Date: 2016-12-21
+Home Team: Benfica	 Away Team: Rio Ave	 Score: 2 - 0	 Date: 2016-12-21
+Home Team: Eupen	 Away Team: Club Brugge	 Score: 1 - 4	 Date: 2016-12-21
+Home Team: KV Kortrijk	 Away Team: KV Oostende	 Score: 0 - 2	 Date: 2016-12-21
+Home Team: Standard Liege	 Away Team: KSC Lokeren	 Score: 1 - 1	 Date: 2016-12-21
+Home Team: Zulte-Waregem	 Away Team: Racing Genk	 Score: 1 - 0	 Date: 2016-12-21
+Home Team: Southampton U23	 Away Team: Reading U23	 Score: (3) 1 - (4) 1	 Date: 2016-12-21
+Home Team: Millwall	 Away Team: Charlton Athletic	 Score: 3 - 1	 Date: 2016-12-21
+Home Team: Sport Boys Warnes	 Away Team: Bolívar	 Score: 0 - 0	 Date: 2016-12-21
+Home Team: The Strongest	 Away Team: San José	 Score: 0 - 0	 Date: 2016-12-21
+Home Team: Blooming	 Away Team: Real Potosí	 Score:  - 	 Date: 2016-12-21
+Home Team: Nacional Potosí	 Away Team: Oriente Petrolero	 Score:  - 	 Date: 2016-12-21
+Home Team: Universitario de Sucre	 Away Team: Guabirá	 Score:  - 	 Date: 2016-12-21
+Home Team: Golden Arrows	 Away Team: Kaizer Chiefs	 Score: 0 - 2	 Date: 2016-12-21
+Home Team: Ajax Cape Town	 Away Team: Chippa United	 Score: 1 - 0	 Date: 2016-12-21
+Home Team: Free State Stars	 Away Team: Cape Town City FC	 Score: 1 - 0	 Date: 2016-12-21
+Home Team: SuperSport United	 Away Team: Polokwane City FC	 Score: 2 - 1	 Date: 2016-12-21

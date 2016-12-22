@@ -1,0 +1,25 @@
+Home Team: Peterborough United	 Away Team: Notts County	 Score: 2 - 0	 Date: 2016-12-20
+Home Team: Villarreal	 Away Team: Toledo	 Score: 1 - 1	 Date: 2016-12-20
+Home Team: Real Sociedad	 Away Team: Real Valladolid	 Score: 1 - 1	 Date: 2016-12-20
+Home Team: Atletico Madrid	 Away Team: Guijuelo	 Score: 4 - 1	 Date: 2016-12-20
+Home Team: Málaga	 Away Team: Cordoba	 Score: 3 - 4	 Date: 2016-12-20
+Home Team: Las Palmas	 Away Team: Huesca	 Score: 2 - 1	 Date: 2016-12-20
+Home Team: Borussia Dortmund	 Away Team: FC Augsburg	 Score: 1 - 1	 Date: 2016-12-20
+Home Team: Borussia Monchengladbach	 Away Team: VfL Wolfsburg	 Score: 1 - 2	 Date: 2016-12-20
+Home Team: Eintracht Frankfurt	 Away Team: Mainz	 Score: 3 - 0	 Date: 2016-12-20
+Home Team: Hamburg SV	 Away Team: Schalke 04	 Score: 2 - 1	 Date: 2016-12-20
+Home Team: Atalanta	 Away Team: Empoli	 Score: 2 - 1	 Date: 2016-12-20
+Home Team: Celtic	 Away Team: Partick Thistle	 Score: 1 - 0	 Date: 2016-12-20
+Home Team: KV Mechelen	 Away Team: Royal Charleroi SC	 Score: 1 - 0	 Date: 2016-12-20
+Home Team: Mouscron-Peruwelz	 Away Team: KVC Westerlo	 Score: 0 - 0	 Date: 2016-12-20
+Home Team: Waasland-Beveren	 Away Team: St. Truiden	 Score: 3 - 1	 Date: 2016-12-20
+Home Team: Boreham Wood	 Away Team: Braintree Town	 Score: 0 - 1	 Date: 2016-12-20
+Home Team: Solihull Moors	 Away Team: Lincoln City	 Score:  - 	 Date: 2016-12-20
+Home Team: Stenhousemuir	 Away Team: East Fife	 Score: 0 - 1	 Date: 2016-12-20
+Home Team: Airbus UK	 Away Team: Bala Town	 Score: 2 - 4	 Date: 2016-12-20
+Home Team: Aberystwyth	 Away Team: Bangor City	 Score: 0 - 3	 Date: 2016-12-20
+Home Team: Deportivo Riestra	 Away Team: Deportivo Morón	 Score: 0 - 1	 Date: 2016-12-20
+Home Team: Dock Sud	 Away Team: Merlo	 Score: 2 - 2	 Date: 2016-12-20
+Home Team: Highlands Park FC	 Away Team: Platinum Stars	 Score: 2 - 2	 Date: 2016-12-20
+Home Team: Maritzburg Utd	 Away Team: Bidvest Wits	 Score: 1 - 1	 Date: 2016-12-20
+Home Team: Orlando Pirates	 Away Team: Bloem Celtic	 Score: 1 - 2	 Date: 2016-12-20

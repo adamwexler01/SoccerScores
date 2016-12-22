@@ -1,0 +1,18 @@
+Home Team: Alavés	 Away Team: Gimnastic de Tarragona	 Score: 3 - 0	 Date: 2016-12-22
+Home Team: Celta Vigo	 Away Team: UCAM Murcia	 Score: 1 - 0	 Date: 2016-12-22
+Home Team: Athletic Bilbao	 Away Team: Racing Santander	 Score: 3 - 0	 Date: 2016-12-22
+Home Team: Espanyol	 Away Team: AD Alcorcon	 Score: (3) 1 - (4) 1	 Date: 2016-12-22
+Home Team: AS Roma	 Away Team: Chievo Verona	 Score: 3 - 1	 Date: 2016-12-22
+Home Team: Cagliari	 Away Team: Sassuolo	 Score: 4 - 3	 Date: 2016-12-22
+Home Team: Fiorentina	 Away Team: Napoli	 Score: 3 - 3	 Date: 2016-12-22
+Home Team: Palermo	 Away Team: US Pescara	 Score: 1 - 1	 Date: 2016-12-22
+Home Team: Sampdoria	 Away Team: Udinese	 Score: 0 - 0	 Date: 2016-12-22
+Home Team: Torino	 Away Team: Genoa	 Score: 1 - 0	 Date: 2016-12-22
+Home Team: América	 Away Team: U.A.N.L	 Score:  - 	 Date: 2016-12-22
+Home Team: CD Nacional de Madeira	 Away Team: Boavista	 Score: 0 - 2	 Date: 2016-12-22
+Home Team: Braga	 Away Team: Moreirense	 Score: 2 - 1	 Date: 2016-12-22
+Home Team: Feirense	 Away Team: Paços de Ferreira	 Score: 2 - 0	 Date: 2016-12-22
+Home Team: Belenenses	 Away Team: Sporting CP	 Score: 0 - 1	 Date: 2016-12-22
+Home Team: GD Chaves	 Away Team: Estoril	 Score: 1 - 0	 Date: 2016-12-22
+Home Team: KAA Gent	 Away Team: Anderlecht	 Score: 2 - 3	 Date: 2016-12-22
+Home Team: Baroka FC	 Away Team: Mamelodi Sundowns	 Score: 0 - 1	 Date: 2016-12-22
