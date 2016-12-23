@@ -11,6 +11,7 @@ require 'Nokogiri'
 require 'JSON'
 require 'Pry'
 require 'csv'
+require 'spreadsheet'
 
 # 	Symbolizes the Match Object
 
@@ -19,7 +20,7 @@ class Match
 		@teamA = teamA
 		@teamB = teamB
 		@fScore = fScore
-		@date = date
+		@date = "#{date.year}-#{date.month}-#{date.day}"
 	end
 
 	def printMatchInfo
@@ -45,11 +46,7 @@ class Match
 
 end
 
-# 	Program below will parse data
-
-
-scores = HTTParty.get("http://www.espnfc.us/api/scorebar")
-scores_json = scores.parsed_response
+# 	Initialization of Program
 
 s_leagues = []
 match_data = []
@@ -57,8 +54,18 @@ teamA_data = []
 teamB_data = []
 score_data = []
 date_data = []
-
 count = 0
+file = File.new("../sheets/#{Date.today}.txt", 'w')
+score_book = Spreadsheet::Workbook.new
+daily_scores = score_book.create_worksheet :name => 'Daily Scores'
+format = Spreadsheet::Format.new :number_format => 'YYYY-MM-DD'
+
+# 	Program below will parse data
+
+scores = HTTParty.get("http://www.espnfc.us/api/scorebar")
+scores_json = scores.parsed_response
+
+
 scores_json["leagues"].each do |league|
 	if count != 0
 		s_leagues.push(league["html"])
@@ -77,8 +84,6 @@ s_leagues.each do |page|
 	end
 end
 
-file = File.new("../sheets/#{Date.today}.txt", 'w')
-
 teamA_data.push("Home Team")
 teamB_data.push("Away Team")
 score_data.push("Score")
@@ -94,6 +99,29 @@ match_data.each do |match|
 	date_data.push(match.getDate)
 end
 
+count = 0
+
+daily_scores.column(3).default_format = format
+match_data.each do |match|
+
+	daily_scores.row(count).push(match.getTeamA)
+	daily_scores.row(count).push(match.getTeamB)
+	daily_scores.row(count).push(match.getScore)
+	daily_scores.row(count).push(match.getDate)
+
+	count+=1
+end
+
+score_book.write "../sheets/#{Date.today}.xls"
+
+file.close
+
+
+
+
+
+# Another method of doing the Excel file
+
 table = [teamA_data, teamB_data, score_data, date_data].transpose
 
 CSV.open("../sheets/#{Date.today}.csv", 'w') do |csv|
@@ -101,7 +129,5 @@ CSV.open("../sheets/#{Date.today}.csv", 'w') do |csv|
         csv << row
     end
 end
-
-file.close
 
 
