@@ -77,7 +77,7 @@ s_leagues.each do |page|
 	end
 end
 
-file = File.new("#{Date.today}.txt", 'w')
+file = File.new("../sheets/#{Date.today}.txt", 'w')
 
 teamA_data.push("Home Team")
 teamB_data.push("Away Team")
@@ -96,7 +96,7 @@ end
 
 table = [teamA_data, teamB_data, score_data, date_data].transpose
 
-CSV.open("#{Date.today}.csv", 'w') do |csv|
+CSV.open("../sheets/#{Date.today}.csv", 'w') do |csv|
     table.each do |row|
         csv << row
     end

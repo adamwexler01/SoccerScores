@@ -1,0 +1,8 @@
+Home Team: Juventus	 Away Team: AC Milan	 Score: (3) 1 - (4) 1	 Date: 2016-12-23
+Home Team: Vitoria Setubal	 Away Team: Tondela	 Score: 3 - 0	 Date: 2016-12-23
+Home Team: Arouca	 Away Team: Guimaraes	 Score: 0 - 0	 Date: 2016-12-23
+Home Team: Dundee	 Away Team: Heart of Midlothian	 Score: 3 - 2	 Date: 2016-12-23
+Home Team: Kilmarnock	 Away Team: St Johnstone	 Score: 0 - 1	 Date: 2016-12-23
+Home Team: Motherwell	 Away Team: Aberdeen	 Score: 1 - 3	 Date: 2016-12-23
+Home Team: Ross County	 Away Team: Partick Thistle	 Score: 1 - 3	 Date: 2016-12-23
+Home Team: Brisbane Roar	 Away Team: Western Sydney Wanderers	 Score: 1 - 1	 Date: 2016-12-23
