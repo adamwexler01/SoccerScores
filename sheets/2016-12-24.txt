@@ -1,0 +1,31 @@
+Home Team: Adanaspor	 Away Team: Istanbul Buyuksehir BSK	 Score: 1 - 1	 Date: 2016-12-24
+Home Team: Besiktas	 Away Team: Gaziantepspor	 Score: 1 - 0	 Date: 2016-12-24
+Home Team: Hamilton Academical	 Away Team: Celtic	 Score: 0 - 3	 Date: 2016-12-24
+Home Team: Rangers	 Away Team: Inverness Caledonian Thistle	 Score: 1 - 0	 Date: 2016-12-24
+Home Team: Ayr United	 Away Team: Dumbarton	 Score: 4 - 4	 Date: 2016-12-24
+Home Team: Dundee United	 Away Team: St Mirren	 Score: 2 - 1	 Date: 2016-12-24
+Home Team: Greenock Morton	 Away Team: Queen of the South	 Score: 1 - 0	 Date: 2016-12-24
+Home Team: Hibernian	 Away Team: Raith Rovers	 Score: 1 - 1	 Date: 2016-12-24
+Home Team: Albion Rovers	 Away Team: East Fife	 Score:  - 	 Date: 2016-12-24
+Home Team: Alloa Athletic	 Away Team: Brechin City	 Score: 1 - 2	 Date: 2016-12-24
+Home Team: Stranraer	 Away Team: Airdrieonians	 Score: 1 - 2	 Date: 2016-12-24
+Home Team: Livingston	 Away Team: Queen's Park	 Score: 1 - 2	 Date: 2016-12-24
+Home Team: Annan Athletic	 Away Team: Berwick Rangers	 Score: 3 - 1	 Date: 2016-12-24
+Home Team: Cowdenbeath	 Away Team: Arbroath	 Score: 0 - 2	 Date: 2016-12-24
+Home Team: Montrose	 Away Team: Stirling Albion	 Score: 2 - 2	 Date: 2016-12-24
+Home Team: Pisa	 Away Team: Spezia	 Score: 0 - 0	 Date: 2016-12-24
+Home Team: Ascoli	 Away Team: Bari	 Score: 1 - 1	 Date: 2016-12-24
+Home Team: Brescia	 Away Team: Pro Vercelli	 Score: 2 - 1	 Date: 2016-12-24
+Home Team: Carpi	 Away Team: Hellas Verona	 Score: 1 - 1	 Date: 2016-12-24
+Home Team: Cesena	 Away Team: Trapani	 Score: 3 - 1	 Date: 2016-12-24
+Home Team: Frosinone	 Away Team: Benevento	 Score: 3 - 2	 Date: 2016-12-24
+Home Team: Perugia	 Away Team: Latina	 Score: 1 - 1	 Date: 2016-12-24
+Home Team: Spal	 Away Team: Ternana	 Score: 4 - 0	 Date: 2016-12-24
+Home Team: US Avellino	 Away Team: Salernitana	 Score: 3 - 2	 Date: 2016-12-24
+Home Team: Vicenza	 Away Team: Cittadella	 Score: 2 - 0	 Date: 2016-12-24
+Home Team: Virtus Entella	 Away Team: Novara	 Score: 4 - 1	 Date: 2016-12-24
+Home Team: Bnei Yehuda	 Away Team: Hapoel Haifa	 Score: 1 - 1	 Date: 2016-12-24
+Home Team: Hapoel Ashkelon	 Away Team: Hapoel Kfar Saba	 Score: 0 - 0	 Date: 2016-12-24
+Home Team: Maccabi Tel-Aviv	 Away Team: Moadon Sport Ashdod	 Score: 1 - 0	 Date: 2016-12-24
+Home Team: Hapoel Kiryat Shmona	 Away Team: Beitar Jerusalem	 Score: 2 - 0	 Date: 2016-12-24
+Home Team: Bolívar	 Away Team: The Strongest	 Score: 1 - 2	 Date: 2016-12-24
