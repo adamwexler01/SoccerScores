@@ -9,7 +9,7 @@
 require 'HTTParty'
 require 'Nokogiri'
 require 'JSON'
-require 'Pry'
+require 'pry'
 require 'csv'
 require 'spreadsheet'
 
@@ -115,10 +115,6 @@ end
 score_book.write "../sheets/#{Date.today}.xls"
 
 file.close
-
-
-
-
 
 # Another method of doing the Excel file
 
