@@ -4,7 +4,7 @@ This script was written in Ruby. Data is pulled in, so that you can get live and
 
 # Running Script
 
-To run the script, you will need to install ruby to your machine. Go to the directory that holds the information, which will probably be SoccerScores. Then type in the following command: Ruby ESPNdata.rb.
+To run the script, you will need to install ruby to your machine. Go to the directory that holds the information, which will probably be SoccerScores. Then type in the following command: Ruby SoccerScores.rb. To install the required gems for this script, you will have to install the bundler with gem using gem install bundler. After you will send the command of "bundle install."
 
 # Outputs
 
